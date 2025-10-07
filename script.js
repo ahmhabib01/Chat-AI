@@ -8,7 +8,7 @@ let userMessage = null;
 let isResponseGenerating = false;
 
 // API configuration
-const API_KEY = "AIzaSyAd7zwsBJAnBeJ-rGkLVxsXab5J3GOx7Nc"; // Your API key here
+const API_KEY = "AIzaSyCIP2zrqg4k92cF_frPTU1syDd8j8fA5Vg"; // Your API key here
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${API_KEY}`;
 
 // Load theme and chat data from local storage on page load
